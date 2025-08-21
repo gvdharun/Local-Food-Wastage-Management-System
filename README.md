@@ -88,6 +88,7 @@ This system enables:
 - Push repository to **GitHub**  
 - Deploy directly on **[Streamlit Community Cloud](https://streamlit.io/cloud/)**  
 - Share the **public web-app link** with NGOs/providers.  
+  **https://local-food-wastage-management-system-eszqfn3tmhmwq5nfap3zcr.streamlit.app/#local-food-wastage-management-system-dashboard**
 
 ---
 
