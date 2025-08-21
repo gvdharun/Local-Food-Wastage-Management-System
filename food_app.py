@@ -188,7 +188,7 @@ elif choice == "🛠 CRUD Operations":
 # -----------------------------
 # 5. SQL Insights (All 15 Queries)
 # -----------------------------
-elif choice == "📊 SQL Insights (15 Queries)":
+elif choice == "📊 SQL Insights":
     st.subheader("📊 SQL Insights (15 Key Queries)")
 
     queries = {
