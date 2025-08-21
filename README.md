@@ -78,7 +78,7 @@ This system enables:
 
 2. Install dependencies:
    
-    pip install -r `pandas sqlite3 streamlit`
+    pip install `pandas sqlite3 streamlit`
 
 3. Run the application:
 
