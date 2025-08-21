@@ -97,7 +97,6 @@ This system enables:
 ┣ 📂 data                                  # Dataset
 ┣ 📜 food_app.py                           # Main Streamlit application
 ┣ 📜 food_waste.db                         # SQLite database
-┣ 📜 requirements.txt                      # Dependencies
 ┣ 📜 README.md                             # Project documentation
 ┗ 📂 food_waste_management.ipynb           # Jupyter notebooks for EDA & analysis
 ```
